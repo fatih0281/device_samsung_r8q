@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/halcyon_r8q.mk
+    $(LOCAL_DIR)/yaap_r8q.mk
